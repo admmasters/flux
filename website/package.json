@@ -16,6 +16,6 @@
     "react-page-middleware": "git://github.com/facebookarchive/react-page-middleware.git",
     "request": "*",
     "serve-favicon": "2.2.0",
-    "serve-static": "1.7.1"
+    "serve-static": "1.16.0"
   }
 }
